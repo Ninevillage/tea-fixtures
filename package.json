@@ -1,6 +1,6 @@
 {
   "name": "tea-fixtures",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "fixture loader",
   "bin": {
     "fixtures": "./bin/fixtures.js"
