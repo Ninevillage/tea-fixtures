@@ -11,5 +11,12 @@ tea-fixtures
 
 primary for tea-party.
 
+# HMM
 * should work for different databases
 * should work....
+
+# GOALS
+* should load adapters like mongo, mysql, pg etc.
+* should connect
+* should seed
+* should clear
