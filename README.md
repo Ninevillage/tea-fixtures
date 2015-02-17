@@ -20,3 +20,9 @@ primary for tea-party.
 * should connect
 * should seed
 * should clear
+
+# Needs
+* tea-active-rcord (adapter loader, connecter, etc) - in progress
+* tea-mongodb (adapter) - in progress
+* tea-mysql (adapter) - in progress
+* tea-pg (adapter) - in progress
