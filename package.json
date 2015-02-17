@@ -4,7 +4,7 @@
   "description": "fixture loader",
   "bin": {
     "fixtures": "./bin/fixtures.js"
-  }
+  },
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha"
