@@ -1,0 +1,23 @@
+{
+  "name": "tea-fixtures",
+  "version": "0.0.1",
+  "description": "fixture loader",
+  "bin": {
+    "fixtures": "./bin/fixtures.js"
+  }
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ninevillage",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^0.9.0",
+    "commander": "^2.6.0",
+    "lodash": "^3.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "should": "^5.0.0"
+  }
+}

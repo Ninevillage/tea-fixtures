@@ -1,0 +1,5 @@
+/.c9/
+*.log
+/logs/
+
+/node_modules/
