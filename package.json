@@ -7,7 +7,7 @@
   },
   "main": "lib/index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "./test/test.sh"
   },
   "author": "Ninevillage",
   "license": "MIT",
